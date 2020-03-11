@@ -1,4 +1,4 @@
-//java文件读操作
+//java文本文件读操作
 import java.io.*;
 
 public class ReadStream{

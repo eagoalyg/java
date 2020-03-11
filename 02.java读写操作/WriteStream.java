@@ -1,4 +1,4 @@
-//java文件写操作
+//java文本文件写操作
 import java.io.*;
 
 public class WriteStream{
